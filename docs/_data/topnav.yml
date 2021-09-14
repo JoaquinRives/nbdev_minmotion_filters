@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: github
-      external_url: https://github.com/JoaquinRives/nbdev_minmotion_filters/tree/"main"/
+      external_url: https://github.com/JoaquinRives/nbdev_minmotion_filters/tree/main/
 
 #Topnav dropdowns
 topnav_dropdowns:
