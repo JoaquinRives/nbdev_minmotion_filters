@@ -1,12 +1,10 @@
-# Project name here
-> Summary description here.
+# Combined filters for MEMS-based respiratory motion estimation.
 
 
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install minmotion_respiration_filters`
 
 ## How to use
 
@@ -23,16 +21,9 @@ Fill me in please! Don't forget code examples:
 
 
 
-# Combined filters for MEMS-based respiratory motion estimation.
-> Summary description here.
+> Original Paper:A Respiratory Motion Estimation Method Based on Inertial Measurement Units for Gated Positron Emission Tomography----------
 
-
-[**Eero Lehtonen**](https://www.mdpi.com/1424-8220/21/12/3983), [Jarmo Teuho](https://www.mdpi.com/1424-8220/21/12/3983), [Juho Koskinen](https://www.mdpi.com/1424-8220/21/12/3983), [Mojtaba Jafari Tadi](https://www.mdpi.com/1424-8220/21/12/3983), [Joaquin Rives Gambin](https://www.mdpi.com/1424-8220/21/12/3983), [Tuija Vasankari](https://www.mdpi.com/1424-8220/21/12/3983), [Antti Saraste](https://www.mdpi.com/1424-8220/21/12/3983).University of Turku, Finland
-
-
-### A Respiratory Motion Estimation Method Based on Inertial Measurement Units for Gated Positron Emission Tomography
-
-[[Link paper](https://www.mdpi.com/1424-8220/21/12/3983)]
+[[Link](https://www.mdpi.com/1424-8220/21/12/3983)]
 
 
 Abstract
@@ -51,19 +42,6 @@ clinically used respiratory motion estimation technique. The presented method co
 simplify the logistics related to respiratory motion estimation in PET imaging studies, and also to
 enable multi-position motion measurements for advanced organ motion estimation.
 
-
-
-## Install
-
-`pip install your_project_name`
-
-## How to use
-
-Fill me in please! Don't forget code examples:
-
-```python
-1+1
-```
 
 
 Citation
