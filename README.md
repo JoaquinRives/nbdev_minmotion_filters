@@ -33,7 +33,7 @@ University of Turku, Finland
 
 [[Download link](https://www.mdpi.com/1424-8220/21/12/3983)]
 
-#### Abstract:
+**Abstract:**
 We present a novel method for estimating respiratory motion using inertial measurement
 units (IMUs) based on microelectromechanical systems (MEMS) technology. As an application of
 the method we consider the amplitude gating of positron emission tomography (PET) imaging, and
