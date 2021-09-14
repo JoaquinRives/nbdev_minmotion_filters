@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 
 # Cell
 def mock_signal(n=1000, minv=0, maxv=500, amplitud=20, noise=0):
+    """ Generates a sinusoid signal."""
     signal = (amplitud/2)*np.sin(np.linspace(minv, maxv, n)/(2*np.pi))
     if noise > 0:
         signal = np.random.normal(0, noise, n) + signal
