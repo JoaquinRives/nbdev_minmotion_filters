@@ -1,6 +1,7 @@
 {
   "nbdev_minmotion_filters": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "helpers.html",
+    "Mean and Spread Filter": "mean_and_spread_filter.html"
   }
 }

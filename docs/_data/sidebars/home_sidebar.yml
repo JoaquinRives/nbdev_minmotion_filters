@@ -11,7 +11,10 @@ entries:
       url: /
     - output: web,pdf
       title: module name here
-      url: core.html
+      url: helpers.html
+    - output: web,pdf
+      title: Mean and Spread Filter
+      url: mean_and_spread_filter.html
     output: web
     title: nbdev_minmotion_filters
   output: web
