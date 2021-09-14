@@ -2,12 +2,26 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"say_hello": "06_combined_respiration_filter.ipynb",
+         "Quaternion": "01_ahrs_madwick_mahony.ipynb",
+         "MadgwickAHRS": "01_ahrs_madwick_mahony.ipynb",
+         "MahonyAHRS": "01_ahrs_madwick_mahony.ipynb",
+         "MeanAndSpreadFilter": "03_mean_and_spread_filter.ipynb",
+         "SignalPeriodAndMagnitudeEstimator": "07_signal_period_and_magnitude_estimator.ipynb",
+         "mock_signal": "08_helpers.ipynb"}
 
-modules = []
+modules = ["core.py",
+           "ahrs_madwick_mahony.py",
+           "zero_crossing_detector.py",
+           "mean_and_spread_filter.py",
+           "linear_position_filter.py",
+           "shape_and_magnitude_pca_filter.py",
+           "combined_respiration_filter.py",
+           "signal_period_and_magnitude_estimator.py",
+           "helpers.py"]
 
-doc_url = "https://JoaquinRives.github.io/nbdev_minmotion_filters/"
+doc_url = "https://JoaquinRives.github.io/"
 
-git_url = "https://github.com/JoaquinRives/nbdev_minmotion_filters/tree/"main"/"
+git_url = "https://github.com/JoaquinRives/nbdev_minmotion_filters/tree/main/"
 
 def custom_doc_links(name): return None
