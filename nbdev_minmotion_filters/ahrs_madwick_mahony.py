@@ -202,13 +202,13 @@ class MadgwickAHRS:
         magnetometer = np.array(magnetometer, dtype=float).flatten()
 
         # Normalise accelerometer measurement
-        if norm(accelerometer) is 0:
+        if norm(accelerometer) == 0:
             warnings.warn("accelerometer is zero")
             return
         accelerometer /= norm(accelerometer)
 
         # Normalise magnetometer measurement
-        if norm(magnetometer) is 0:
+        if norm(magnetometer) == 0:
             warnings.warn("magnetometer is zero")
             return
         magnetometer /= norm(magnetometer)
@@ -255,7 +255,7 @@ class MadgwickAHRS:
         #accelerometer = np.array(accelerometer, dtype=float).flatten()
 
         # Normalise accelerometer measurement
-        if norm(accelerometer) is 0:
+        if norm(accelerometer) == 0:
             warnings.warn("accelerometer is zero")
             return
         accelerometer /= norm(accelerometer)
