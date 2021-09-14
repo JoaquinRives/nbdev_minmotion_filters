@@ -20,7 +20,7 @@ modules = ["core.py",
            "signal_period_and_magnitude_estimator.py",
            "helpers.py"]
 
-doc_url = "https://JoaquinRives.github.io/"
+doc_url = "https://JoaquinRives.github.io/nbdev_minmotion_filters/"
 
 git_url = "https://github.com/JoaquinRives/nbdev_minmotion_filters/tree/main/"
 
