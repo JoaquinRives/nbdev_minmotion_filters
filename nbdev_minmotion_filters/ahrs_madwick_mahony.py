@@ -17,7 +17,7 @@ class Quaternion:
         """
         Initializes a Quaternion object
         :param w_or_q: A scalar representing the real part of the quaternion, another Quaternion object or a
-                    four-element array containing the quaternion values
+                    four-element array containing the quaternion values.
         :param x: The first imaginary part if w_or_q is a scalar
         :param y: The second imaginary part if w_or_q is a scalar
         :param z: The third imaginary part if w_or_q is a scalar
