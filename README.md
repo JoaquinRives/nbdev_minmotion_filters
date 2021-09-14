@@ -1,15 +1,14 @@
-# Project name here
+# Combined filters for MEMS-based respiratory motion estimation.
 > Summary description here.
 
 
-[[Link paper](https://www.mdpi.com/1424-8220/21/12/3983)]
+[**Eero Lehtonen**](https://www.mdpi.com/1424-8220/21/12/3983), [Jarmo Teuho](https://www.mdpi.com/1424-8220/21/12/3983), [Juho Koskinen](https://www.mdpi.com/1424-8220/21/12/3983), [Mojtaba Jafari Tadi](https://www.mdpi.com/1424-8220/21/12/3983), [Joaquin Rives Gambin](https://www.mdpi.com/1424-8220/21/12/3983), [Tuija Vasankari](https://www.mdpi.com/1424-8220/21/12/3983), [Antti Saraste](https://www.mdpi.com/1424-8220/21/12/3983).
+University of Turku, Finland
+
 
 ### A Respiratory Motion Estimation Method Based on Inertial Measurement Units for Gated Positron Emission Tomography
 
-Eero Lehtonen, Jarmo Teuho, Juho Koskinen, Mojtaba Jafari Tadi, Joaquin Rives Gambin, Tuija Vasankari and Antti Saraste.
-
-[**Eero Lehtonen**](https://www.mdpi.com/1424-8220/21/12/3983), [Jarmo Teuho](https://www.mdpi.com/1424-8220/21/12/3983), [Juho Koskinen](https://www.mdpi.com/1424-8220/21/12/3983), [Mojtaba Jafari Tadi](https://www.mdpi.com/1424-8220/21/12/3983), [Joaquin Rives Gambin](https://www.mdpi.com/1424-8220/21/12/3983), [Tuija Vasankari](https://www.mdpi.com/1424-8220/21/12/3983), [Antti Saraste](https://www.mdpi.com/1424-8220/21/12/3983)  
-_[University of Turku](https://www.mdpi.com/1424-8220/21/12/3983), University of Turku, Finland
+[[Link paper](https://www.mdpi.com/1424-8220/21/12/3983)]
 
 
 Abstract
@@ -57,8 +56,3 @@ Citation
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
-
-
-    2
-
-
