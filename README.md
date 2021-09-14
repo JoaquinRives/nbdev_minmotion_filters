@@ -21,13 +21,15 @@ Fill me in please! Don't forget code examples:
 
 
 
-> Original Paper:A Respiratory Motion Estimation Method Based on Inertial Measurement Units for Gated Positron Emission Tomography----------
+> Original Paper:
+
+A Respiratory Motion Estimation Method Based on Inertial Measurement Units for Gated Positron Emission Tomography
+----------
 
 [[Link](https://www.mdpi.com/1424-8220/21/12/3983)]
 
 
-Abstract
-----------
+### Abstract:
 We present a novel method for estimating respiratory motion using inertial measurement
 units (IMUs) based on microelectromechanical systems (MEMS) technology. As an application of
 the method we consider the amplitude gating of positron emission tomography (PET) imaging, and
