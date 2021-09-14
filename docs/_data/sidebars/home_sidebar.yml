@@ -10,11 +10,32 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: helpers.html
+      title: Core
+      url: core.html
+    - output: web,pdf
+      title: Quaternion-based AHRS algorithms (Madwick & Mahony).
+      url: ahrs_madwick_mahony.html
+    - output: web,pdf
+      title: Zero Crossing Detector
+      url: zero_crossing_detector.html
     - output: web,pdf
       title: Mean and Spread Filter
       url: mean_and_spread_filter.html
+    - output: web,pdf
+      title: Linear Position Filter
+      url: linear_position_filter.html
+    - output: web,pdf
+      title: Shape and Magnitude PCA Filter
+      url: shape_and_magnitude_pca_filter.html
+    - output: web,pdf
+      title: Combined Respiration Filter
+      url: combined_respiration_filter.html
+    - output: web,pdf
+      title: Signal period and magnitude estimator
+      url: signal_period_and_magnitude_estimator.html
+    - output: web,pdf
+      title: Helpers
+      url: helpers.html
     output: web
     title: nbdev_minmotion_filters
   output: web
