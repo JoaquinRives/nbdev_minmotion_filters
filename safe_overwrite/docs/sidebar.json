@@ -1,0 +1,14 @@
+{
+  "nbdev_minmotion_filters": {
+    "Overview": "/",
+    "Core": "core.html",
+    "AHRS algorithms": "ahrs_madwick_mahony.html",
+    "Zero Crossing Detector": "zero_crossing_detector.html",
+    "Mean and Spread Filter": "mean_and_spread_filter.html",
+    "Linear Position Filter": "linear_position_filter.html",
+    "Shape and Magnitude PCA Filter": "shape_and_magnitude_pca_filter.html",
+    "Combined Respiration Filter": "combined_respiration_filter.html",
+    "Signal period and magnitude estimator": "signal_period_and_magnitude_estimator.html",
+    "Helpers": "helpers.html"
+  }
+}

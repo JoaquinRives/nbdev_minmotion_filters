@@ -3,6 +3,12 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "06_combined_respiration_filter.ipynb",
+         "SequenceTfms": "00_pipeline.ipynb",
+         "ImageSequence": "00_pipeline.ipynb",
+         "ImageSequenceBlockWrapper": "00_pipeline.ipynb",
+         "SwapTfms": "00_pipeline.ipynb",
+         "get_dls": "00_pipeline.ipynb",
+         "preprocess_data": "00_preprocessing.ipynb",
          "Quaternion": "01_ahrs_madwick_mahony.ipynb",
          "MadgwickAHRS": "01_ahrs_madwick_mahony.ipynb",
          "MahonyAHRS": "01_ahrs_madwick_mahony.ipynb",
@@ -11,6 +17,8 @@ index = {"say_hello": "06_combined_respiration_filter.ipynb",
          "mock_signal": "08_helpers.ipynb"}
 
 modules = ["core.py",
+           "pipeline.py",
+           "preprocessing.py",
            "ahrs_madwick_mahony.py",
            "zero_crossing_detector.py",
            "mean_and_spread_filter.py",
