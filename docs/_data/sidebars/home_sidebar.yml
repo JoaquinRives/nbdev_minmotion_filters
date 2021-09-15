@@ -13,6 +13,12 @@ entries:
       title: Core
       url: core.html
     - output: web,pdf
+      title: Pipeline
+      url: pipeline.html
+    - output: web,pdf
+      title: Preprocessing
+      url: preprocessing.html
+    - output: web,pdf
       title: AHRS algorithms
       url: ahrs_madwick_mahony.html
     - output: web,pdf

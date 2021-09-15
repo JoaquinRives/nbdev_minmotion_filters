@@ -2,6 +2,8 @@
   "nbdev_minmotion_filters": {
     "Overview": "/",
     "Core": "core.html",
+    "Pipeline": "pipeline.html",
+    "Preprocessing": "preprocessing.html",
     "AHRS algorithms": "ahrs_madwick_mahony.html",
     "Zero Crossing Detector": "zero_crossing_detector.html",
     "Mean and Spread Filter": "mean_and_spread_filter.html",
